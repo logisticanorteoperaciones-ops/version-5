@@ -1,0 +1,7 @@
+{
+  "name": "Logistica Norte - Portal de Flota",
+  "description": "Portal de gestión de flota para Logistica Norte. Registre mantenimientos, actualice kilometrajes y reciba notificaciones automáticas para mantener sus vehículos en óptimas condiciones.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
